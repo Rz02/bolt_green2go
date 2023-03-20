@@ -1,0 +1,21 @@
+Activity,CO2 Emissions (kg/tonne)
+Purchase Requisition Created,"0,1"
+Purchase Order Reviewed,"0,1"
+Purchase Order Approved,"0,1"
+Purchased Order Denied,"0,1"
+Negotiations with Vendor,"0,5"
+Order Placed with Vendor,"0,4"
+Vendor Ships Package from Warehouse,20
+Package Picked Up by Carrier,"0,5"
+Package Shipped by Sea,185
+Package Shipped by Air,4475
+Package Shipped by Road,350
+Package Received at Store,3
+Package Received at Warehouse,2
+Package Transferred to Store,"17,5"
+Order Cancelled,"0,2"
+Changing Mode of Transport,30
+Parcel Received at Customs,"0,5"
+Customs Approved,"0,5"
+Customs Denied,"2,5"
+Package Shipped Back to Vendor,185
